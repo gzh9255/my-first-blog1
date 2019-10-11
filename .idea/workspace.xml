@@ -13,6 +13,9 @@
   </component>
   <component name="ProjectId" id="1S0ZlYcPajgeqf9iw4UlXb0AoLH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
